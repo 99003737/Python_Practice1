@@ -17,6 +17,7 @@ print(4*'string')
 user = "jesh"
 text = input()
 print(text)
+
 jeshu = input("jeshu")
 age = int(input())
 print(age)
